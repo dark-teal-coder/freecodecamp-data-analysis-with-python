@@ -3,24 +3,24 @@
 # Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
-- <ins>First Published Date</ins>: 2022-02-21
-- <ins>Last Modified Date</ins>: 2022-03-01
+- <ins>First Published Date</ins>: 2022-00-00
+- <ins>Last Modified Date</ins>: 2022-00-00
 
 # Project
 
-- <ins>Title</ins>: Job Bank Web Scraper and Data Analyzer
+- <ins>Title</ins>: Mean-Variance-Standard Deviation Calculator
 - <ins>Difficulty</ins>:
   - [ ] Beginner
-  - [x] Intermediate
+  - [ ] Intermediate
   - [ ] Advanced
 - <ins>Scale</ins>:
   - [ ] Small
-  - [x] Medium
+  - [ ] Medium
   - [ ] Big
 
 # Description
 
-The project uses Python to scrape wage data from [Job Bank](https://www.jobbank.gc.ca/home), to perform simple data analysis and to generate Excel and PDF reports. The data are drawn from the Canadian national job board, which has a huge number of job postings classified by the Canadian National Occupation Classification (NOC) and other related data.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Installation
 
@@ -57,23 +57,21 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 
 ### Lecture Materials
 
-- CSCI E-7 Introduction to Python lecture materials by Jeff Parker from Harvard University
+- N/A
 
 ### Data
 
-- Canada's National Occupational Classification (NOC) code list: [Find your NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html#noc)
+- N/A
 
 ### Documentations
 
-- Pandas: [Pandas API Reference](https://pandas.pydata.org/docs/reference/index.html#api)
-- PyFPDF: [PyFPDF Reference Manual](https://pyfpdf.readthedocs.io/en/latest/ReferenceManual/index.html)
+- N/A
+- N/A
 
 ### Tutorials
 
-- Real Python: [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
-- freeCodeCamp: [Python if \__name__ == \__main__ Explained with Code Examples](https://www.freecodecamp.org/news/if-name-main-python-example/)
-- GeeksforGeeks: [Convert Text and Text File to PDF using Python](https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/)
+- N/A
 
 ### Solutions
 
-- StackOverflow: [How do I get the full path of the current file's directory?](https://stackoverflow.com/questions/3430372/how-do-i-get-the-full-path-of-the-current-files-directory)
+- N/A
