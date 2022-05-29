@@ -61,19 +61,19 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 
 ### Data
 
-2. Canada's National Occupation Code (NOC): https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html#noc
+2. Canada's National Occupational Classification (NOC) code list: [Find your NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html#noc)
 
 ### Documentations
 
-3. Pandas: https://pandas.pydata.org/docs/reference/index.html#api
-4. FPDF: https://pyfpdf.readthedocs.io/en/latest/index.html
+3. Pandas: [Pandas API Reference](https://pandas.pydata.org/docs/reference/index.html#api)
+4. PyFPDF: [PyFPDF Reference Manual](https://pyfpdf.readthedocs.io/en/latest/ReferenceManual/index.html)
 
 ### Tutorials
 
-5. Beautiful Soup: Build a Web Scraper With Python: https://realpython.com/beautiful-soup-web-scraper-python/
-6. Python if \__name__ == \__main__ Explained with Code Examples: https://www.freecodecamp.org/news/if-name-main-python-example/
-7. Convert Text and Text File to PDF using Python: https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/
+5. Real Python: [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+6. freeCodeCamp: [Python if \__name__ == \__main__ Explained with Code Examples](https://www.freecodecamp.org/news/if-name-main-python-example/)
+7. GeeksforGeeks: [Convert Text and Text File to PDF using Python](https://www.geeksforgeeks.org/convert-text-and-text-file-to-pdf-using-python/)
 
 ### Solutions
 
-8. StackOverflow: https://stackoverflow.com/questions/3430372/how-do-i-get-the-full-path-of-the-current-files-directory
+8. StackOverflow: [How do I get the full path of the current file's directory?](https://stackoverflow.com/questions/3430372/how-do-i-get-the-full-path-of-the-current-files-directory)
