@@ -1,6 +1,6 @@
 # Course 01: Data Analysis with Python
 
-Certification: [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/#numpy)
+Certification: [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)
 
 ## Description
 
