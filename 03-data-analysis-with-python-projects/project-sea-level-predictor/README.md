@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: 
-- <ins>Difficulty</ins>:
+- **Title**: *Sea Level Predictor*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
