@@ -1,5 +1,7 @@
 <!-- This is a README file for a project. -->
 
+# Page View Time Series Visualizer
+
 # Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
