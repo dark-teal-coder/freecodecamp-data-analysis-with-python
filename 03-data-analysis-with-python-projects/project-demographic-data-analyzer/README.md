@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Demographic Data Analyzer
-- <ins>Difficulty</ins>:
+- **Title**: *Demographic Data Analyzer*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
