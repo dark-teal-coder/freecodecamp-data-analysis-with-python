@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Page View Time Series Visualizer
-- <ins>Difficulty</ins>:
+- **Title**: *Page View Time Series Visualizer*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
