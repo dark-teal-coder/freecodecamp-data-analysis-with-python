@@ -1,5 +1,7 @@
 <!-- This is a README file for a project. -->
 
+# Medical Data Visualizer
+
 # Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
