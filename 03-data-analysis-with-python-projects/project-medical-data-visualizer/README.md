@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Medical Data Visualizer
-- <ins>Difficulty</ins>:
+- **Title**: *Medical Data Visualizer*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
