@@ -1,5 +1,7 @@
 <!-- This is a README file for a project. -->
 
+# Sea Level Predictor
+
 # Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
@@ -8,7 +10,7 @@
 
 # Project
 
-- <ins>Title</ins>: Sea Level Predictor
+- <ins>Title</ins>: 
 - <ins>Difficulty</ins>:
   - [ ] Beginner
   - [ ] Intermediate
