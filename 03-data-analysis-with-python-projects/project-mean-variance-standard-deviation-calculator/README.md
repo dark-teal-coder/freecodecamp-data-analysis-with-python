@@ -10,12 +10,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Mean-Variance-Standard Deviation Calculator
-- <ins>Difficulty</ins>:
+- **Title**: *Mean-Variance-Standard Deviation Calculator*
+- **Difficulty**:
   - [ ] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- **Scale**:
   - [ ] Small
   - [ ] Medium
   - [ ] Big
